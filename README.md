@@ -31,12 +31,14 @@ walked 3 miles
 
 ### Terminal Output
 ![Terminal Demo](images/terminal-demo1.png)
+
 ![Terminal Demo](images/terminal-demo2.png)
+
 
 ### Google Sheets Integration
 ![Google Sheets Demo](images/google-sheet-demo1.png)
-![Google Sheets Demo](images/google-sheet-demo2.png)
 
+![Google Sheets Demo](images/google-sheet-demo2.png)
 
 ## Future Improvements
 
